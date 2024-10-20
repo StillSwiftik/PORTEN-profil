@@ -7,7 +7,7 @@ const taskList = document.querySelector('.ul__item')
 
 document.querySelector('.burger__menu').addEventListener('click', (e)=>{
     e.preventDefault()
-    document.querySelector('.fa-bars').classList.toggle('active')
+    document.querySelector('.fa-bars').classList.toggle('activee')
 })
 
 function closeMenu() {

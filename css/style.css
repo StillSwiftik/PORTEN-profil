@@ -552,7 +552,7 @@ body {
     transition: transform 0.3s ease-in-out;
     transform: rotate(0deg);
 }
-.active {
+.activee {
 
     transition: transform 0.3s ease-in-out;
     transform: rotate(90deg);

@@ -552,11 +552,11 @@ body {
     transition: transform 0.3s ease-in-out;
     transform: rotate(0deg);
 }
-.activee {
+/* .activee {
 
     transition: transform 0.3s ease-in-out;
     transform: rotate(90deg);
-}
+} */
 @media screen and (max-width: 1440px) {
     .second__bg {
         flex-direction: column;
